@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.topbar {
+  width: auto;
+  height: 50px;
+  background-color: #ff9a4b;
+}
+.main {
+  display: inline-block;
+}
+
+.centerbar {
+  width: 300px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: inline-block;
+  background-color: #eeeeee;
+  padding-right: 30px;
+}
+
+.category {
+  background-color: #ff9a4b;
+  color: white;
+}
+
+.boximage {
+  width: 300px;
+  height: 150px;
+  display: inline-block;
+}
+
+.box-text {
+  width: 300px;
+  padding-right: 30px;
+}
+
+.bottombar {
+  height: 50px;
+  background-color: #aaaaaa;
+}
